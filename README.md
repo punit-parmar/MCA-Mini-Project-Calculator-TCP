@@ -16,6 +16,7 @@ Its useful for simple calculations.
 
 ## Made with
 
+* Love
 * Python
 * [tkinter](https://docs.python.org/3/library/tkinter.html)
 * [socket](https://docs.python.org/3/library/socket.html)
